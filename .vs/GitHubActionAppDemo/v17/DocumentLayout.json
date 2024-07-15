@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50566370-08F4-4A02-B80B-4002FEE7AC4A}|GitHubActionApp\\GitHubActionApp.csproj|d:\\ghani\\c#\\.net\\cicd\\githubactionappdemo\\githubactionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50566370-08F4-4A02-B80B-4002FEE7AC4A}|GitHubActionApp\\GitHubActionApp.csproj|solutionrelative:githubactionapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 380,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\GitHubActionApp\\Dockerfile",
+              "RelativeDocumentMoniker": "GitHubActionApp\\Dockerfile",
+              "ToolTip": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\GitHubActionApp\\Dockerfile",
+              "RelativeToolTip": "GitHubActionApp\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-15T18:07:52.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
