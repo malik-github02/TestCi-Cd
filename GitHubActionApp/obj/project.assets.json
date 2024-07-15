@@ -522,11 +522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\GitHubActionApp\\GitHubActionApp.csproj",
+      "projectUniqueName": "d:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\TestGitHubActions\\TestCi-Cd\\GitHubActionApp\\GitHubActionApp.csproj",
       "projectName": "GitHubActionApp",
-      "projectPath": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\GitHubActionApp\\GitHubActionApp.csproj",
+      "projectPath": "d:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\TestGitHubActions\\TestCi-Cd\\GitHubActionApp\\GitHubActionApp.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\GitHubActionApp\\obj\\",
+      "outputPath": "d:\\Ghani\\C#\\.net\\CiCd\\GitHubActionAppDemo\\TestGitHubActions\\TestCi-Cd\\GitHubActionApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
